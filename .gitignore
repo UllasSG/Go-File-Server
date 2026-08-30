@@ -1,0 +1,8 @@
+index.db
+index.db-wal
+index.db-shm
+gofs
+go-file-system
+
+# test files
+*_test.go

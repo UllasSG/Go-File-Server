@@ -6,3 +6,6 @@ go-file-system
 
 # test files
 *_test.go
+
+# macOS
+.DS_Store
